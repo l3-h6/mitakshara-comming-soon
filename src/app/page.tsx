@@ -6,9 +6,9 @@ export default function Home() {
       <h1 className="text-5xl font-bold mb-4">Mitakshara Institute of Law</h1>
       <p className="text-xl mb-8">Website Coming Soon</p>
       <div className="space-y-2 text-center">
-        <p>📍 Kathmandu, Bagmati Province, Nepal</p>
-        <p>Email: info@mitaksharalaw.edu.np</p>
-        <p>Phone: +977-1-XXXXXXX</p>
+        <p>📍 Babarmahal, Kathmandu, Nepal</p>
+        <p>Email: <a href="mailto://mitakshara2025@gmail.com">mitakshara2025@gmail.com</a></p>
+        <p>Phone: <a href="tel://+9779869766257" > +977-9869766257</a></p>
       </div>
       <footer className="mt-16 text-sm text-gray-500">
         &copy; {new Date().getFullYear()} Mitakshara Institute of Law. All rights reserved.
